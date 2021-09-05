@@ -33,16 +33,16 @@ function contact() {
 
                 <div class="row">
                     <div class="col-lg-4" ></div>
-                    <div class="col-lg-1" >
+                    <div class="col-lg-1" id="grid-icon" >
                         <a href="https://www.linkedin.com/in/maaz-khan-a44a85174" target="blank" ><img class="grow" src={Linkedin} alt="LinkedIn Icon" id="Logo-Icons" /></a>
                     </div>
-                    <div class="col-lg-1" >
+                    <div class="col-lg-1" id="grid-icon" >
                         <a href="https://wa.me/+918095147071" target="blank" ><img class="grow" src={Whatsapp} alt="Whatsapp Icon" id="Logo-Icons" /></a>
                     </div>
-                    <div class="col-lg-1" >
+                    <div class="col-lg-1" id="grid-icon">
                         <a href="https://www.instagram.com/khan._.maaz/" target="blank" ><img class="grow" src={Instagram} alt="Instagram Icon" id="Logo-Icons" /></a>
                     </div>
-                    <div class="col-lg-1" >
+                    <div class="col-lg-1" id="grid-icon">
                         <a href="https://github.com/Maaz10" target="blank"><img class="grow" src={Git} alt="Github Icon" id="Logo-Icons" /></a>
                     </div>
                     <div class="col-lg-4" ></div>

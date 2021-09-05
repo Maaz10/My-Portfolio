@@ -106,6 +106,23 @@
     background-attachment: inherit;
 }
 
+@media(max-width: 786px) {
+    .image-1 {
+        background-image: url("./components/Background3.jpg");
+        background-color: #cccccc;
+        height: 700px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: inherit;
+    }
+    #text-1 {
+        text-align: left;
+        color: white;
+        padding-left: 5%;
+        padding-top: 25px;
+    }
+}
+
 #text-1 {
     text-align: left;
     padding-top: 25%;
@@ -131,7 +148,7 @@
 #Hr-line-1 {
     width: 60%;
     color: #293f50;
-    padding: 2%;
+    padding: 5px;
 }
 
 #DP-Image {
@@ -187,6 +204,20 @@ a:link {
     padding-bottom: 5%;
 }
 
+@media(max-width: 786px) {
+    #About-Section {
+        padding-top: 15%;
+        padding-bottom: 15%;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}
+
+#DP {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
 #Experiences-Section {
     background-color: wheat;
     color: rgb(48, 48, 48);
@@ -194,11 +225,33 @@ a:link {
     padding-bottom: 5%;
 }
 
+@media(max-width: 786px) {
+    #Experiences-Section {
+        background-color: wheat;
+        color: rgb(48, 48, 48);
+        padding-top: 15%;
+        padding-bottom: 15%;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+}
+
 #Contact-Section {
     background-color: rgb(36, 36, 36);
     color: white;
     padding-top: 5%;
     padding-bottom: 5%;
+}
+
+@media(max-width: 786px) {
+    #Contact-Section {
+        background-color: rgb(36, 36, 36);
+        color: white;
+        padding-top: 15%;
+        padding-bottom: 15%;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
 }
 
 #Hr-line-2 {
@@ -226,19 +279,19 @@ a:link {
     text-align: center;
     font-family: Garamond, serif;
     font-weight: bold;
-    color: #274458;
+    color: #216796;
 }
 
 #About-Me-3 {
     font-family: Garamond, serif;
     font-weight: bold;
-    color: #274458;
+    color: #216796;
 }
 
 #About-Me-4 {
     font-family: Garamond, serif;
     font-weight: bold;
-    color: #274458;
+    color: #216796;
 }
 
 .grow:hover {
@@ -348,4 +401,17 @@ nav ul li a {
     color: #274458;
     padding-top: 5%;
     padding-bottom: 5%;
+}
+
+@media(max-width: 786px) {
+    #Subtext {
+        color: rgb(85, 84, 84);
+        padding-top: 5%;
+    }
+}
+
+#grid-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

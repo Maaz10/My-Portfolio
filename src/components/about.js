@@ -10,7 +10,7 @@ function about() {
         <div id="About-Section">
             <h1 id="About-Me-2">Profile</h1>
             <br />
-            <h3 id="first-text-2">Upcoming Associate Software Developer @ Eurofins IT Solutions India</h3>
+            <h3 id="first-text-2">Final Year Student @ Dayananda Sagar University</h3>
             <br />
             <hr id="Hr-line-1" />
 
@@ -28,9 +28,7 @@ function about() {
                         <p id="first-text-1"> Also I like working in a team, you'll learn faster and much more. As the saying goes: 'two heads are better than one'.</p>
                     </div>
 
-                    <div class="col-lg-2" >
-                        <br />
-                        <br />
+                    <div class="col-lg-2" id="DP">
                         <div>
                             <img src={DP} id="DP-Image-2" />
                         </div>
