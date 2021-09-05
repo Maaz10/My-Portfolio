@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.23442864.chunk.css",
+    "main.js": "/My-Portfolio/static/js/main.6d1e8a03.chunk.js",
+    "main.js.map": "/My-Portfolio/static/js/main.6d1e8a03.chunk.js.map",
+    "runtime-main.js": "/My-Portfolio/static/js/runtime-main.5a4ba1d9.js",
+    "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.5a4ba1d9.js.map",
+    "static/css/2.f7d5f77a.chunk.css": "/My-Portfolio/static/css/2.f7d5f77a.chunk.css",
+    "static/js/2.6795a99a.chunk.js": "/My-Portfolio/static/js/2.6795a99a.chunk.js",
+    "static/js/2.6795a99a.chunk.js.map": "/My-Portfolio/static/js/2.6795a99a.chunk.js.map",
+    "static/js/3.dd157172.chunk.js": "/My-Portfolio/static/js/3.dd157172.chunk.js",
+    "static/js/3.dd157172.chunk.js.map": "/My-Portfolio/static/js/3.dd157172.chunk.js.map",
+    "index.html": "/My-Portfolio/index.html",
+    "static/css/2.f7d5f77a.chunk.css.map": "/My-Portfolio/static/css/2.f7d5f77a.chunk.css.map",
+    "static/css/main.23442864.chunk.css.map": "/My-Portfolio/static/css/main.23442864.chunk.css.map",
+    "static/js/2.6795a99a.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.6795a99a.chunk.js.LICENSE.txt",
+    "static/media/Arduino.11113e50.jpg": "/My-Portfolio/static/media/Arduino.11113e50.jpg",
+    "static/media/Attendace Tracker.33d6f8e8.png": "/My-Portfolio/static/media/Attendace Tracker.33d6f8e8.png",
+    "static/media/Auto code.e4c8c44d.jpeg": "/My-Portfolio/static/media/Auto code.e4c8c44d.jpeg",
+    "static/media/App.css": "/My-Portfolio/static/media/Background3.294db4f9.jpg",
+    "static/media/Blockchain.9a8dd37c.jpg": "/My-Portfolio/static/media/Blockchain.9a8dd37c.jpg",
+    "static/media/Digital Library.624c7213.jpg": "/My-Portfolio/static/media/Digital Library.624c7213.jpg",
+    "static/media/Instagram.8c726965.png": "/My-Portfolio/static/media/Instagram.8c726965.png",
+    "static/media/Maaz.de47a5d0.png": "/My-Portfolio/static/media/Maaz.de47a5d0.png",
+    "static/media/Nokia1.17c0f7ce.jpeg": "/My-Portfolio/static/media/Nokia1.17c0f7ce.jpeg",
+    "static/media/Whatsapp.f8fda338.png": "/My-Portfolio/static/media/Whatsapp.f8fda338.png",
+    "static/media/batman.3b57c713.png": "/My-Portfolio/static/media/batman.3b57c713.png",
+    "static/media/toh-2.5a0a8e9a.jpg": "/My-Portfolio/static/media/toh-2.5a0a8e9a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a4ba1d9.js",
+    "static/css/2.f7d5f77a.chunk.css",
+    "static/js/2.6795a99a.chunk.js",
+    "static/css/main.23442864.chunk.css",
+    "static/js/main.6d1e8a03.chunk.js"
+  ]
+}
